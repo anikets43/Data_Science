@@ -34,6 +34,16 @@
 - https://www.cloudera.com/more/training/library/tutorials.html
 - http://hadoopbook.com/
 
+### Math / Statistics
+- https://www.khanacademy.org/math/statistics-probability
+- https://www.khanacademy.org/math/linear-algebra
+- https://www.udacity.com/course/intro-to-statistics--st101
+- https://www.udacity.com/course/statistics--st095
+- https://www.coursera.org/learn/basic-statistics
+- http://onlinestatbook.com/
+- https://www.openintro.org/stat/
+- https://www.tutorialspoint.com/statistics/
+
 ## Degrees
 - https://www.coursera.org/university-programs/masters-in-computer-data-science
 - https://www.analytics.gatech.edu/
