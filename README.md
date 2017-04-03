@@ -109,6 +109,10 @@
 - http://www.vtk.org/
 - http://qwt.sourceforge.net/
 
+### Haskell
+- http://www.datahaskell.org/
+- http://haskelldata.com/
+
 # Link Dumps
 - https://github.com/caesar0301/awesome-public-datasets
 - https://github.com/fasouto/awesome-dataviz
@@ -123,3 +127,4 @@
 # Articles
 - http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/
 - https://medium.com/cs-math/why-becoming-a-data-scientist-is-not-actually-easier-than-you-think-5b65b548069b
+- https://www.linkedin.com/pulse/haskell-data-science-good-bad-ugly-tom-hutchins
