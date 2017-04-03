@@ -23,6 +23,7 @@
 - https://www.pluralsight.com/courses/hbase-hadoop-getting-started
 - https://www.pluralsight.com/courses/r-understanding-machine-learning
 - https://www.pluralsight.com/courses/data-science-hadoop-workflows-scalding
+- https://www.datacamp.com/courses
 
 ## Degrees
 - https://www.coursera.org/university-programs/masters-in-computer-data-science
@@ -61,7 +62,27 @@
 - https://plot.ly/python/
 - https://leather.readthedocs.io/en/latest/index.html
 
+### R
+- https://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf
+- https://cran.r-project.org/doc/manuals/r-release/R-intro.pdf
+- http://www.biostat.jhsph.edu/~ajaffe/docs/undergradguidetoR.pdf
+- https://google.github.io/styleguide/Rguide.xml
+- http://arrgh.tim-smith.us/
+- http://www.statmethods.net/
+- http://guides.library.upenn.edu/stat_packages/R
+- http://r4ds.had.co.nz/
+- http://www.cyclismo.org/tutorial/R/
+- https://www.tutorialspoint.com/r/
+- http://www.r-tutor.com/r-introduction
+
+### Lua
+- http://torch.ch/
+- http://scilua.org/
+- https://github.com/facebookresearch/visdom
+
 ### C++
+- https://github.com/tensorflow/tensorflow
+- https://github.com/meta-toolkit/meta
 - https://doc.qt.io/qt-5/qtdatavisualization.html
 - http://www.vtk.org/
 - http://qwt.sourceforge.net/
