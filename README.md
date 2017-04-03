@@ -4,8 +4,12 @@
 - https://www.rstudio.com/
 - https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 - https://public.tableau.com/s/
+- https://hadoop.apache.org/
+- http://greenplum.org/
+- https://cassandra.apache.org/
+- https://spark.apache.org/
 
-## Online Courses
+## Online Courses / Guides
 - https://www.udemy.com/datascience/
 - https://www.udemy.com/data-science-and-machine-learning-with-python-hands-on/
 - https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/
@@ -24,6 +28,11 @@
 - https://www.pluralsight.com/courses/r-understanding-machine-learning
 - https://www.pluralsight.com/courses/data-science-hadoop-workflows-scalding
 - https://www.datacamp.com/courses
+- https://www.tutorialspoint.com/hadoop/
+- https://developer.yahoo.com/hadoop/tutorial/
+- http://www.javatpoint.com/hadoop-tutorial
+- https://www.cloudera.com/more/training/library/tutorials.html
+- http://hadoopbook.com/
 
 ## Degrees
 - https://www.coursera.org/university-programs/masters-in-computer-data-science
@@ -97,3 +106,6 @@
 - https://github.com/onurakpolat/awesome-bigdata
 - https://github.com/datasciencemasters/go
 - https://github.com/open-source-society/data-science
+
+# Articles
+- https://medium.com/cs-math/why-becoming-a-data-scientist-is-not-actually-easier-than-you-think-5b65b548069b
