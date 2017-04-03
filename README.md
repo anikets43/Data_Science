@@ -25,3 +25,4 @@
 - https://github.com/caesar0301/awesome-public-datasets
 - https://github.com/fasouto/awesome-dataviz
 - https://github.com/okulbilisim/awesome-datascience
+- https://github.com/Nezteb/Databases
