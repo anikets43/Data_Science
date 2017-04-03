@@ -37,12 +37,15 @@
 ## Degrees
 - https://www.coursera.org/university-programs/masters-in-computer-data-science
 - https://www.analytics.gatech.edu/
+- http://www.omscs.gatech.edu/
+- http://online.lewisu.edu/msds
 
 ## Certificates
 - https://www.coursera.org/specializations/jhu-data-science
 - https://www.udacity.com/course/predictive-analytics-for-business--nd008
 - https://www.udacity.com/course/data-analyst-nanodegree--nd002
 - https://www.microsoft.com/en-us/learning/sql-certification.aspx
+- https://academy.microsoft.com/en-us/professional-program/data-science/
 
 ## Language Specific
 
