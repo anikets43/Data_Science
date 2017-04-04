@@ -68,6 +68,13 @@
 - http://threejs.org/
 - http://dygraphs.com/
 - http://echarts.baidu.com/
+- https://github.com/simple-statistics/simple-statistics
+- https://github.com/josdejong/mathjs
+- https://github.com/lauerfab/MLweb
+- https://github.com/mateogianolio/vectorious
+- https://github.com/nicolaspanel/numjs
+- https://github.com/lvandeve/jmat
+- https://github.com/NaturalNode/node-sylvester
 
 ### Python
 - https://github.com/rasbt/python-machine-learning-book
