@@ -27,6 +27,11 @@
 - https://www.pluralsight.com/courses/hbase-hadoop-getting-started
 - https://www.pluralsight.com/courses/r-understanding-machine-learning
 - https://www.pluralsight.com/courses/data-science-hadoop-workflows-scalding
+- https://www.udacity.com/course/intro-to-data-science--ud359
+- https://www.udacity.com/course/data-analysis-with-r--ud651
+- https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about
+- http://statweb.stanford.edu/~tibs/ElemStatLearn/
+- https://www.edx.org/course?search_query=data+science
 - https://www.datacamp.com/courses
 - https://www.tutorialspoint.com/hadoop/
 - https://developer.yahoo.com/hadoop/tutorial/
