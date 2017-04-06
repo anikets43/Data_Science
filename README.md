@@ -125,18 +125,18 @@
 - http://www.datahaskell.org/
 - http://haskelldata.com/
 
+# Articles
+- http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/
+- https://medium.com/cs-math/why-becoming-a-data-scientist-is-not-actually-easier-than-you-think-5b65b548069b
+- https://www.linkedin.com/pulse/haskell-data-science-good-bad-ugly-tom-hutchins
+
 # Link Dumps
+- https://github.com/Nezteb/Databases
 - https://github.com/caesar0301/awesome-public-datasets
 - https://github.com/fasouto/awesome-dataviz
 - https://github.com/okulbilisim/awesome-datascience
 - https://github.com/bulutyazilim/awesome-datascience
 - https://github.com/rasbt/pattern_classification
-- https://github.com/Nezteb/Databases
 - https://github.com/onurakpolat/awesome-bigdata
 - https://github.com/datasciencemasters/go
 - https://github.com/open-source-society/data-science
-
-# Articles
-- http://mlwhiz.com/blog/2017/03/26/top_data_science_resources_on_the_internet_right_now/
-- https://medium.com/cs-math/why-becoming-a-data-scientist-is-not-actually-easier-than-you-think-5b65b548069b
-- https://www.linkedin.com/pulse/haskell-data-science-good-bad-ugly-tom-hutchins
