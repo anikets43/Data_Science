@@ -82,6 +82,7 @@
 - https://github.com/NaturalNode/node-sylvester
 
 ### Python
+- https://www.continuum.io/downloads
 - https://github.com/rasbt/python-machine-learning-book
 - http://pandas.pydata.org/
 - http://scikit-learn.org/stable/
