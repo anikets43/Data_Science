@@ -83,7 +83,6 @@
 
 ### Python
 - https://www.continuum.io/downloads
-- https://github.com/rasbt/python-machine-learning-book
 - http://pandas.pydata.org/
 - http://scikit-learn.org/stable/
 - http://www.numpy.org/
@@ -140,4 +139,9 @@
 - https://github.com/rasbt/pattern_classification
 - https://github.com/onurakpolat/awesome-bigdata
 - https://github.com/datasciencemasters/go
+- https://github.com/rasbt/python-machine-learning-book
+- https://github.com/donnemartin/data-science-ipython-notebooks
+- https://github.com/jakevdp/PythonDataScienceHandbook
+- https://github.com/DataScienceSpecialization/courses
+- https://github.com/ujjwalkarn/DataSciencePython
 - https://github.com/open-source-society/data-science
