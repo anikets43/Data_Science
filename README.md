@@ -54,6 +54,7 @@
 - https://www.analytics.gatech.edu/
 - http://www.omscs.gatech.edu/
 - http://online.lewisu.edu/msds
+- http://www.heinz.cmu.edu/school-of-information-systems-and-management/information-technology-msit/curriculum/msit-bida/index.aspx
 
 ## Certificates
 - https://www.coursera.org/specializations/jhu-data-science
@@ -145,3 +146,12 @@
 - https://github.com/DataScienceSpecialization/courses
 - https://github.com/ujjwalkarn/DataSciencePython
 - https://github.com/open-source-society/data-science
+
+# Artificial Intelligence / Machine Learning / Deep Learning
+#### Stuff that doesn't fit above
+- https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+- https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
+- https://www.udacity.com/ai
+- https://www.coursera.org/specializations/machine-learning
+- http://www.omscs.gatech.edu/specialization-interactive-intelligence
+- http://www.omscs.gatech.edu/specialization-machine-learning
