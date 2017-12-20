@@ -148,10 +148,5 @@
 - https://github.com/open-source-society/data-science
 
 # Artificial Intelligence / Machine Learning / Deep Learning
-#### Stuff that doesn't fit above
-- https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
-- https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101
-- https://www.udacity.com/ai
-- https://www.coursera.org/specializations/machine-learning
-- http://www.omscs.gatech.edu/specialization-interactive-intelligence
-- http://www.omscs.gatech.edu/specialization-machine-learning
+
+- https://github.com/Nezteb/AI_Stuff
