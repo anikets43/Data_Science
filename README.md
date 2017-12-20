@@ -50,6 +50,7 @@
 - https://www.tutorialspoint.com/statistics/
 
 ## Degrees
+- https://www.reddit.com/r/datascience/comments/632922/are_online_data_science_certificate_programs/dfr3jz7/
 - https://www.coursera.org/university-programs/masters-in-computer-data-science
 - https://www.analytics.gatech.edu/
 - http://www.omscs.gatech.edu/
