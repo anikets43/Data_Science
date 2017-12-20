@@ -40,8 +40,11 @@
 - http://hadoopbook.com/
 
 ### Math / Statistics
+- https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
+- https://www.youtube.com/playlist?list=PL1328115D3D8A2566
 - https://www.khanacademy.org/math/statistics-probability
 - https://www.khanacademy.org/math/linear-algebra
+- https://www.khanacademy.org/math/ap-statistics
 - https://www.udacity.com/course/intro-to-statistics--st101
 - https://www.udacity.com/course/statistics--st095
 - https://www.coursera.org/learn/basic-statistics
